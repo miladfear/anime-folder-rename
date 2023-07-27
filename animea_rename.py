@@ -2,7 +2,7 @@ import os
 import requests
 
 # set the path to your anime folder
-folder_path = "C:/Users/milad/Desktop/anime"
+folder_path = "FullPath/To/The/Archive"
 
 def get_season(month):
     if month in ["01", "02", "03"]:
